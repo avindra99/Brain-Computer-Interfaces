@@ -22,6 +22,8 @@ BCI technology promises groundbreaking applications, but is still in relatively 
 - Use external sensors like EEG caps to read brain signals through the skull
 - Lower signal resolution but no surgery required
 - Used for applications like controlling games and devices
+- ![image](https://github.com/avindra99/Brain-Computer-Interfaces/assets/94655548/8d956db7-b95b-4b21-ba04-46b5c2ac0b44)
+
 
 ## Current Applications
 
